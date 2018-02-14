@@ -1,0 +1,6 @@
+{
+  "name": "ControlCharts",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ControlCharts.js"
+}

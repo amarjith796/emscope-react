@@ -1,0 +1,6 @@
+{
+  "name": "DailyMarketRange",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DailyMarketRange.js"
+}

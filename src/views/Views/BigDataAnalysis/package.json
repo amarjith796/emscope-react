@@ -1,0 +1,6 @@
+{
+  "name": "BigDataAnalysis",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./BigDataAnalysis.js"
+}
